@@ -22,7 +22,7 @@
  * SOFTWARE.
  */
 
-#include "Ticker.h"
+#include "Ticker1.h"
 
 Ticker::Ticker(fptr callback, uint32_t timer, uint32_t repeat, resolution_t resolution) {
 	this->resolution = resolution;
