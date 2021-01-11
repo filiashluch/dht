@@ -22,8 +22,8 @@
  * SOFTWARE.
  */
 
-#ifndef TICKER_H
-#define TICKER_H
+#ifndef TICKER1_H
+#define TICKER1_H
 
 #include "Arduino.h"
 
