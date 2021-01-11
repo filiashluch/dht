@@ -1,4 +1,4 @@
-#include "Ticker.h"
+#include "Ticker1.h"
 
 void printMessage();
 void printCounter();
